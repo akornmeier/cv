@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Content() {
   return (
-    <div className="content w-full p-12 bg-white">
+    <div className="content w-full p-12 bg-white rounded-tr-lg rounded-br-lg">
       <div id="profile" className="prose">
         <h2 className="font-bold sm:text-xl uppercase tracking-widest border-cyan-900 text-cyan-700 border-l-8 pl-2">
           Profile
