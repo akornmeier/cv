@@ -200,7 +200,7 @@ export default function Sidebar() {
         <h2 className="text-xl font-semibold mb-4">On the Web</h2>
         <div className="flex items-center my-3">
           <img
-            src="assets/logo-github.svg"
+            src="./assets/logo-github.svg"
             className="inline w-6 mr-4"
             alt="GitHub Logo"
           />
@@ -214,7 +214,7 @@ export default function Sidebar() {
         </div>
         <div className="flex items-center my-3">
           <img
-            src="assets/logo-linkedin.svg"
+            src="./assets/logo-linkedin.svg"
             className="inline w-6 mr-4"
             alt="LinkedIn Logo"
           />
@@ -228,7 +228,7 @@ export default function Sidebar() {
         </div>
         <div className="flex items-center my-3">
           <img
-            src="assets/logo-twitter.svg"
+            src="./assets/logo-twitter.svg"
             className="inline w-6 mr-4"
             alt="Twitter Logo"
           />
