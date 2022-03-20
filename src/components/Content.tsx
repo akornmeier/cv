@@ -233,7 +233,7 @@ export default function Content() {
         </div>
       </div>
       <hr className="mt-8 mb-12" />
-      <div id="projects" className="prose">
+      <div id="conferences" className="prose">
         <h2 className="font-bold sm:text-xl uppercase tracking-widest border-cyan-900 text-cyan-700 border-l-8 pl-2">
           Conferences
         </h2>
