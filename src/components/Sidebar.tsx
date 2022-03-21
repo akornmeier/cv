@@ -23,7 +23,7 @@ export default function Sidebar() {
           Tony Kornmeier
         </h1>
         <h2 className="flex flex-col text-center text-xl font-light">
-          <span>Fullstack Developer,</span> Digital Accessibility
+          <span>Full Stack Developer,</span> Digital Accessibility
         </h2>
       </div>
 
